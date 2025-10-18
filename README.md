@@ -95,6 +95,6 @@ Output showing successful reading, JSON saving, and final parsed structure displ
 
 Q4: File Backup Utility (Automation)
 
-Output showing the successful backup, returns the report.txt file on the first/initial run.
+Initial Run: Output showing the successful backup, which returns the report.txt file on the first/initial run.
 
-Output showing the conflict resolution logic where a timestamp is appended to the file name on the second run.
+Conflict Run: Output showing the conflict resolution logic where a timestamp is appended to the file name on the second run.
