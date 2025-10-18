@@ -23,7 +23,7 @@ To run the scripts, you will need:
   pip install psutil
 
 
-  ## How to Run
+## How to Run
 
 | Script | Command Example | Notes | 
 | :--- | :--- | :--- |
