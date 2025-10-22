@@ -110,3 +110,4 @@ if __name__ == "__main__":
         fetched_data = fetch_from_database()
         
         display_output(fetched_data)
+
