@@ -41,3 +41,4 @@ def monitor_cpu_health():
 # ------------------------- SCRIPT EXECUTION ----------------------------------
 if __name__ == "__main__":
     monitor_cpu_health()
+
